@@ -1,0 +1,45 @@
+<style type="text/css">
+		
+		body{background-color:darkslategrey;}
+		
+		h1{ color: orangered;
+			font-family: cursive;
+			font-weight: 700px;
+			font-size: 40px;
+			text-align: center;}
+		h3{color: gold;
+		   font-family: cursive;
+		   font-weight: 700px;
+		   font-size: 40px;
+		   text-align: center;}
+		 .image-container{
+		 	width: 200px;
+		 	height: 200px;
+		 	text-align:center;
+		 	line-height: 300px;
+		 }
+		 p{color: ghostwhite;
+		   font-family: cursive;
+		   font-weight: 700px;
+		   font-size: 20px;
+		   text-align: center;}
+		 ul{color: black;
+		    font-family: cursive;
+			font-weight: 700px;
+			font-size: 20px;
+			text-align: center;}
+		 #para2{color:orangered;}
+		 #para3{color:orangered;}
+		 .interests{color: gold;}
+		 span{color: ghostwhite;
+		      font-size: 70px;
+		      font-family: cursive;}
+		 #div1{background-color:black; border:dashed;}
+		 #div2{background-color: orangered;border:dashed;}
+		 #div3{background-color:gold;border: dashed;}
+		 #div4{background-color: black;border: dashed;}
+		 form{padding: 15px;background-color: darkslategrey; font-family: cursive;
+		 	  border-style: solid; color: orangered;}
+		 input[type=button]:hover{color: orangered;background-color: gold;}
+		 input[type=text]:focus{background-color: gold;width:100%;transition: 2s;}
+    </style>
